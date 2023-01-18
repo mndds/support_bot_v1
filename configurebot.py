@@ -1,9 +1,9 @@
 cfg = {
-	'token': '5113744460:AAFmWa3qHmiY9y4AGh46dYHQrLUGQGNtXNg',
+	'token': '',
 	'name': 'test',
 	'dev_id': 748925570,
 	'teh_chat_id': -874732655,
-	'db_url': 'mongodb+srv://mndds:Unrealman1@cluster0.prmzcfe.mongodb.net/?retryWrites=true&w=majority',
+	'db_url': '',
 	'db_name': 'test',
 
 	'button_new_question': '✉ Задать вопрос',
